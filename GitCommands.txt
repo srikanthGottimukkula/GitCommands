@@ -1,0 +1,26 @@
+															-:GIT Commands:-
+															
+1. git init     ---->(initialing local repo)
+2. git status   ----> (checking status)
+3. git add --a or git add *   ----->(adding all files to staged area)
+4. git commit -m "Comment"   ------> (adding git local repository)
+5. git branch -M main        ------> (creating branch)
+6. git remote add origin https://github.com/srikanthGottimukkula/GitCommands.git
+7. git push -u origin main    ------>  (commiting our local repo to central repo)
+
+
+8.  git rm --cached <File-name>  ------> (staged to unstaged area)
+9.  git rm --cached *            ------> (all files)
+10. git log                      ------> (last commits ids emails)
+11. git reset HEAD <file-name>   ------> (It is used to unstage the area)
+12. git checkout --<file-name>  ------> (Discard the chnages from the main)
+13. git clone <repo url>        ------> (Cloning the project for the first time)
+14. git pull                    ------> (latest changes getting from the current branch)
+15. git stash                   -------> (saving into the work tree)
+16. git stash apply             -------> (again getting previous chnages)
+17. git stash list              -------> (showing the list)
+18. git stash clear             --------> (clearing worktree)
+19. git clone -b <branch-name> <repo-url> ----> (cloning direct from that branch)  
+ 
+
+
