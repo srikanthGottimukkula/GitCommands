@@ -21,6 +21,7 @@
 17. git stash list              -------> (showing the list)
 18. git stash clear             --------> (clearing worktree)
 19. git clone -b <branch-name> <repo-url> ----> (cloning direct from that branch)  
+20. git reset     ----> reset the all files
  
 
 
